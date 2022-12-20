@@ -1,4 +1,4 @@
-# Script de criação de um servidor web apache 2
+# Script de criação de um servidor web apache2
 
 #!/bin/bash
 
